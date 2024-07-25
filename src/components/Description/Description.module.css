@@ -1,0 +1,17 @@
+.container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin: 20px 0;
+}
+
+.title {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-size: 20px;
+}
